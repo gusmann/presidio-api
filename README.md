@@ -1,2 +1,2 @@
-# presidio-api
-A FastAPI implementation of Microsoft's Presidio API
+# presidio-app
+A FastAPI implementation of Microsoft Presidio 
